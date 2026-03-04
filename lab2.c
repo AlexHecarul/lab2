@@ -3,7 +3,7 @@
 
 int function(int x){
 	x=x-2;
-	
+	/aaaaa
 	return x;
 }
 
