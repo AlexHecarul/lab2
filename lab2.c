@@ -3,8 +3,8 @@
 
 int function(int x){
 	x=x-2;
-	/aaaaa
 	return x;
+
 }
 
 int main(){
@@ -15,6 +15,7 @@ int main(){
 		i++;
 	}
 	printf("%d", i);
+	printf("gata");
 	return 0;	
 }
 
